@@ -96,11 +96,3 @@ The [Azure recovery runbook](docs/runbooks/azure-recovery.md) is a pre-deploymen
 
 These are local results only. No Azure deployment, load test, actual Azure cost measurement, or Azure backup/restore exercise has been completed; there are no measured cloud performance or recovery claims.
 
-## Next iterations
-
-1. Implement and validate the Bicep workload and network modules, including private database access, managed identity, Key Vault, and diagnostics.
-2. Price the selected Azure region and SKUs against the monthly ceiling before any deployment.
-3. Run the bounded load test against an isolated local API with a valid test token; record workload, date, and environment size.
-4. After pricing and separate deployment approval, exercise Azure backup and restore and record observed recovery and data loss.
-
-Do not present planned work or example résumé bullets as completed results.
