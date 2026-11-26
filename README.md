@@ -1,0 +1,1 @@
+# Azure-Cloud-Native-Inventory-Service
